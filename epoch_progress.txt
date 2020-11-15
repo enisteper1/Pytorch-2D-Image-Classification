@@ -1,0 +1,2 @@
+Epoch		Accuracy	Loss	        Val_Accuracy	Val_loss
+0		0.6027		0.2336		0.6781		0.2044
